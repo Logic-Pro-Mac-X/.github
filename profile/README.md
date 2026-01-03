@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" width="200" alt="Logic Pro macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/LogicPro">
+ <a href="https://gnomik-gomik-apps.github.io/.github/LogicPro">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Logic Pro macOS page">
  </a><br><br>
  <div align="center">
